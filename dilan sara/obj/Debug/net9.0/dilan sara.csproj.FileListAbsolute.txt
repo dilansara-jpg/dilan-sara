@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\dilan sara\bin\Debug\net9.0\dilan sara.exe
+C:\Users\Admin\Documents\GitHub\dilan sara\bin\Debug\net9.0\dilan sara.deps.json
+C:\Users\Admin\Documents\GitHub\dilan sara\bin\Debug\net9.0\dilan sara.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\dilan sara\bin\Debug\net9.0\dilan sara.dll
+C:\Users\Admin\Documents\GitHub\dilan sara\bin\Debug\net9.0\dilan sara.pdb
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.dll
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\refint\dilan sara.dll
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.pdb
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\dilan sara.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\dilan sara\obj\Debug\net9.0\ref\dilan sara.dll
