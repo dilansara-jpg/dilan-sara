@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "poo",
+    "Descripcion": "estudiar",
+    "Prioridad": 1,
+    "Categoria": {
+      "Nombre": "programacion",
+      "Color": "Azul",
+      "Descripcion": ""
+    },
+    "Completada": true,
+    "FechaCreacion": "2026-07-27T15:48:31.5283396-05:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "base de datos",
+    "Descripcion": "estudiar",
+    "Prioridad": 2,
+    "Categoria": {
+      "Nombre": "programacion",
+      "Color": "Azul",
+      "Descripcion": ""
+    },
+    "Completada": false,
+    "FechaCreacion": "2026-07-27T15:51:05.17028-05:00"
+  },
+  {
+    "Id": 3,
+    "Titulo": "ingles ",
+    "Descripcion": "estudiar",
+    "Prioridad": 1,
+    "Categoria": {
+      "Nombre": "lenguajes",
+      "Color": "Azul",
+      "Descripcion": ""
+    },
+    "Completada": false,
+    "FechaCreacion": "2026-07-27T15:51:37.8879586-05:00"
+  }
+]
